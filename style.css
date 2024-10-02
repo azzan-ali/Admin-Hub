@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255, 250, 250);
+}
+h1{
+    color: rgb(7, 143, 197);
+    margin-left: 14px;
+}
+.azan{
+    display: flex;
+    align-items: center;
+    margin-top: 4px;
+
+}
+.document{
+    margin-left: 30px;
+    padding-top: 1px;
+
+}
+.ham{
+    margin-left: 80px;
+    align-items: center;
+}
+.search{
+    padding-left: 9000px;
+}
+
+.sea{
+    margin-left: 14px;
+   width: 1000px;
+    padding-left: 10px;
+    height: 29px;
+border: none;
+background-color: wheat;
+position: relative;
+top: 3px;
+border-radius: 14px;
+}
+
+.icon{
+    padding-top: 20px;
+}
+.azzan{
+    margin-top: 40px;
+   
+    justify-content: space-around;
+    border-radius: 30px;
+    margin-left: 20px;
+    
+  font-family: "Poppins";
+}
+   
+
+.icon-40{
+    border-radius: 10px; 
+}
+.banana{
+    margin-left: 240px;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.car{
+    width: 34px;
+    height: 34px;
+    border-radius: 400px;
+    margin-left: 19px;
+    margin-top: 6px;
+}
+.icon-2{
+    margin-left: 20px;
+    margin-top: 44px;
+}
+.icon-10{
+    padding-top: 17px;
+    font-family: "Poppins";
+}
+.apple{
+    background-color: rgb(225, 221, 221);
+    width: 800px;
+    height: 440px;
+position: relative;
+bottom: 374px;
+left: 180px;
+border-radius: 20px;
+
+}   
+.mango{
+margin-left: 100px;
+
+  width: 140px; 
+    height: 40px;
+   
+  
+}
+.div{
+    padding-top: 44px;
+    padding-left: 20px;
+    font-size: 23px;
+    font-family: "Poppins";
+}
+.laptop{
+    font-size: 10px;
+ color: rgb(175, 164, 164);
+    font-size: 13px;
+    display: flex;
+}
+.cla{
+    display: inline;
+    font-size: 10px; 
+    position: relative;
+    left: 20px;
+    top: 2px;
+    color: blue;
+
+}
+.display{
+    display: flex;
+    align-items: center;
+}
+.less{
+    font-size: 10px;
+margin-left: 20px;
+}
+.box-1{
+    background-color:  white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.index{
+    margin-left: 70px;
+    font-family: "Poppins";
+}
+.html{
+   position: relative;
+   top: 39px;
+   left: 20px;
+   font-size: 20px;
+}
+.flex{
+    display: flex;
+}
+.btn-1{
+    position: relative;
+    left: 490px;
+    bottom: 20px;
+    border: none;
+    background-color: rgb(20, 145, 194);
+    width: 117px;
+    height: 27px;
+    border-radius: 14px;
+    color: white;
+}
+.color{
+    background-color: white;
+    width: 400px;
+    height: 177px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 9px;
+
+}
+h6{
+    font-family: "Poppins";
+    margin-left: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+
+}
+.zan{
+    width: 30px;
+    height: 30px;
+    border-radius: 900px;
+    margin-left: 10px;
+    margin-top: 4px;
+   
+}
+.radio{
+    font-size: 14px;
+    font-family: "Poppins";
+    margin-left: 10px;
+    display: flex;
+}
+.date{
+    display: flex;
+    padding-left: 99px;
+    font-family: "Poppins";
+    font-size: 12px;
+}
+.all{
+    display: flex;
+    margin-top: 10px;
+}
+.data{
+    display: flex;
+    padding-left: 69px;
+    font-family: "Poppins";
+    font-size: 12px;
+}
+.div-90{
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: 30px;
+
+}
+.class{
+    margin-left: 20px;
+    font-size: 14px;
+}
+.flexible{
+    align-items: center;
+}
+.olo{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.btn-2{
+    width: 70px;
+    height: 20px;
+    margin-top: 40px;
+    position: relative;
+    right: 44px;
+    font-size: 10px;
+    border: none;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+.jpg{
+    width: 30px;
+    height: 30px;
+    border-radius: 90px;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+}
+.fan{
+   padding-left: 28px;
+   font-size: 16px;
+   position: relative;
+bottom: 17px;
+}
+.al-b{
+    display: flex;
+
+}
+.fan-1{
+    padding-left: 28px;
+position: relative;
+bottom: 17px;
+    font-size: 14px; 
+}
+.micro{
+    width: 70px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: skyblue;
+    border: none;
+    margin-left: 70px;
+   font-size: 11px;
+   position: relative;
+bottom: 17px;
+}
+.script{
+    background-color: white;
+   width: 330px;
+   height: 200px;
+
+ 
+}
+.java{
+    position: relative;
+    left: 440px;
+    bottom: 178px;
+
+}
+.mar{
+    margin-left: 10px;
+    margin-top: 14px;
+    border: none;
+    background-color: rgb(210, 207, 202);
+    height: 30px;
+    width: 220px;
+    border-radius: 7px;
+border-left: 10px solid rgb(20, 145, 194);
+
+}
+.place{
+    font-size: 30px;
+    margin-left: 13px;
+}
+.number{
+    color: white;
+    border-radius: 10px;
+    height: 12px;
+    width: 17px;
+    justify-content: center;
+    font-size: 10px;
+    background-color: red;
+    position: relative;
+    right: 7px;
+    bottom: 2px;
+}
+.van{
+    position: relative;
+    right: 29px;
+    top: 3px;
+    font-size: 13px;
+    background-color: rgb(27, 167, 222);
+    height: 24px;
+    width: 130px;
+    align-items: center;
+    display: flex;
+    padding-top:4px;
+    border-top-right-radius: 14px;
+   border-bottom-right-radius: 14px;
+}
+.van{
+    justify-content: center;
+}
